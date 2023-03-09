@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2c406d42","path":"/notes/java/05/09-%E5%8F%8D%E5%B0%84/","title":"09 - 反射：框架的设计灵魂 ⭐","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Class 对象功能","slug":"class-对象功能","link":"#class-对象功能","children":[]}],"filePathRelative":"notes/java/05/09-反射/README.md","git":{}}');export{e as data};

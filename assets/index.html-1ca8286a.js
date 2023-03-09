@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-24ab816c","path":"/notes/front-end/04/","title":"Maybe you hate writing HTML and CSS like me. If so, you may be interested in the following content 🎨","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"notes/front-end/04/README.md","git":{}}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7f57a977","path":"/notes/front-end/04/01-LayUI/","title":"layui 教程 🎀","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"notes/front-end/04/01-LayUI/README.md","git":{}}');export{t as data};
