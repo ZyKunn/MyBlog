@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-52d24054","path":"/notes/mysql/","title":"This will be a new chapter on the data of🚀","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1704790855000,"contributors":[{"name":"ZyKun","email":"814342838@qq.com","commits":3}]},"filePathRelative":"notes/mysql/README.md"}');export{e as data};

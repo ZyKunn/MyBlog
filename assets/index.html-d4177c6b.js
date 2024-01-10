@@ -1,0 +1,1 @@
+const e=JSON.parse(`{"key":"v-24ab814d","path":"/notes/front-end/03/","title":"If you're feeling bloated with JavaScript code, you can try jQuery 🍩","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1704790855000,"contributors":[{"name":"ZyKun","email":"814342838@qq.com","commits":3}]},"filePathRelative":"notes/front-end/03/README.md"}`);export{e as data};
