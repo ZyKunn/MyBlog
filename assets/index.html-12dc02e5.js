@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1d1d6b3f","path":"/notes/microservices/SpringCloudGateway/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1741664985000,"contributors":[{"name":"ZyKun","email":"814342838@qq.com","commits":1}]},"filePathRelative":"notes/microservices/SpringCloudGateway/README.md"}');export{e as data};

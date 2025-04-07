@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-24ab81aa","path":"/notes/front-end/06/","title":"TypeScript is JavaScript with syntax for types.","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1736933034000,"contributors":[{"name":"ZyKun","email":"814342838@qq.com","commits":1}]},"filePathRelative":"notes/front-end/06/README.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0b5acb8f","path":"/notes/microservices/nacos/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1740042665000,"contributors":[{"name":"ZyKun","email":"814342838@qq.com","commits":1}]},"filePathRelative":"notes/microservices/nacos/README.md"}');export{e as data};

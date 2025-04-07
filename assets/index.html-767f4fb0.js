@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2b63bda6","path":"/notes/microservices/Jenkins/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1743989751000,"contributors":[{"name":"ZyKun","email":"814342838@qq.com","commits":3}]},"filePathRelative":"notes/microservices/Jenkins/README.md"}');export{e as data};
